@@ -1,0 +1,7 @@
+/* Empty. Add your own CSS if you like */
+body {
+    background-image: url('img/taxi.jpeg'); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
